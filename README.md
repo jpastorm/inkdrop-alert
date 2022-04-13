@@ -1,4 +1,4 @@
-# Alerts
+# Alert Card
 
 visual plugin to display alerts
 

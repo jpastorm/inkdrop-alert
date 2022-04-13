@@ -1,5 +1,5 @@
 {
-  "name": "inkdrop-alert",
+  "name": "alert-card",
   "main": "./lib/inkdrop-alert",
   "version": "0.0.0",
   "description": "alert cards for markdown",
