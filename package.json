@@ -1,8 +1,8 @@
 {
   "name": "alert-area",
   "main": "./lib/inkdrop-alert",
-  "version": "0.0.0",
-  "description": "alert areas for markdown",
+  "version": "0.1.0",
+  "description": "Alert areas for markdown",
   "keywords": [],
   "repository": "https://github.com/jpastorm/inkdrop-alert",
   "license": "MIT",
