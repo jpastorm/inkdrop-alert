@@ -9,12 +9,10 @@ ipm install inkdrop-alert
 ```
 
 ## Usage
-
-    ```
-    [!warning]
-    This is my alert
-    ```
-
+```
+[!warning]
+This is my alert
+```
 It will be rendered as:
 
 ![](https://github.com/jpastorm/inkdrop-alert/raw/master/example.png)
