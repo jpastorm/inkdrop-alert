@@ -5,7 +5,7 @@ visual plugin to display alerts
 ## Install
 
 ```shell
-ipm install inkdrop-alert
+ipm install alert-card
 ```
 
 ## Usage
