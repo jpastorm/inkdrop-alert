@@ -1,11 +1,11 @@
-# Alert Card
+# Alert Areas
 
 visual plugin to display alerts
 
 ## Install
 
 ```shell
-ipm install alert-card
+ipm install alert-area
 ```
 
 ## Usage
